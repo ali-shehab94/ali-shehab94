@@ -2,7 +2,7 @@
 #### I'm a Husband, Father (of two doggos🐕🐕), Developer, and Musician
 - 🎸 I'm a musician and I play multiple instruments
 - 🐕 I’m currently learning web development with languages Javascript, and PHP
-- ⚽ My goal is to become a proffessional Full Stack web developer.
+- ⚽ My goal is to become a professional Full Stack web developer.
 - 📨 Reach me on ali.shehab.ut@gmail.com
 
 Skills: Python / REACT / JS / HTML / CSS
