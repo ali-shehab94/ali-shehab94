@@ -1,11 +1,10 @@
 ### Hi there 👋, I'm Ali
 #### I'm a Husband, Father (of two doggos🐕🐕), Developer, and Musician
 - 🐕 I’m currently learning web development with languages Javascript, and PHP
-- 🎸 I play multiple instruments
 - 🌱 I’m currently learning Node
 - ⚽ My goal is to become a professional Full Stack web developer.
 - 📨 Reach me on ali.shehab.ut@gmail.com
-- ⚡ Fun fact: bugs will be bugs
+- ⚡ Fun fact: 🎸 I play multiple instruments
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
