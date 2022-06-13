@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ali
 #### I'm a Husband, Father (of two doggos🐕🐕), Developer, and Musician
-- 🎸 I'm a musician and I play multiple instruments
 - 🐕 I’m currently learning web development with languages Javascript, and PHP
+- 🎸 I play multiple instruments
 - ⚽ My goal is to become a professional Full Stack web developer.
 - 📨 Reach me on ali.shehab.ut@gmail.com
 
