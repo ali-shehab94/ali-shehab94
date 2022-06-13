@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Node
 - ⚽ My goal is to become a professional Full Stack web developer.
 - 📨 Reach me on ali.shehab.ut@gmail.com
-- ⚡ Fun fact: 🎸 I play multiple instruments
+- ⚡ Fun fact: I play multiple instruments 🎸 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
