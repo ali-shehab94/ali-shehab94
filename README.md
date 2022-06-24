@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ali
-#### I'm a Husband, Father (of two doggos🐕🐕), Developer, and Musician
+#### I'm a Husband, Full Stack Developer, and Musician
 - 🐕 I’m currently learning web development with languages Javascript, and PHP
 - 🌱 I’m currently learning Node
 - ⚽ My goal is to become a professional Full Stack web developer.
