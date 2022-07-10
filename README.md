@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Ali
 #### I'm a Husband, Full Stack Developer, and Musician
-- 🐕 I’m currently learning web development with languages Javascript, and PHP
-- 🌱 I’m currently learning Node
+- 🌱 I’m currently building my first app
 - ⚽ My goal is to become a professional Full Stack web developer.
 - 📨 Reach me on ali.shehab.ut@gmail.com
 - ⚡ Fun fact: I play multiple instruments 🎸 
