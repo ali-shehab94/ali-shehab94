@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ali
 #### I'm a Husband, Full Stack Developer, and Musician
 - 🌱 I’m currently building my first app
-- ⚽ My goal is to become a professional Full Stack web developer.
+- ⚽ My goal for 2022 is to start my career in Web Development.
 - 📨 Reach me on ali.shehab.ut@gmail.com
 - ⚡ Fun fact: I play multiple instruments 🎸 
 
