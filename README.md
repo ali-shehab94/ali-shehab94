@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ali
+## Hi there 👋, I'm Ali
 #### I'm a Husband, Full Stack Developer, and Musician
 - 🌱 I’m currently building my first app
 - ⚽ My goal for 2022 is to start my career in Web Development.
