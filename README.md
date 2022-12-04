@@ -1,9 +1,6 @@
 # Hi there 👋, I'm Ali
 #### I'm a Husband, Full Stack Developer, and Musician
-- 🌱 I’m currently learning The MERN Stack
-- ⚽ My goal for 2022 is to start my career in Web Development.
 - 📨 Reach me on ali.shehab.ut@gmail.com
-- ⚡ Fun fact: I play multiple instruments 🎸 
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> What I Know</h2>                                                                                        
 
